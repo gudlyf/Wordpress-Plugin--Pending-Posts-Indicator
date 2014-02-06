@@ -4,7 +4,7 @@ Donate link: http://astore.amazon.com/gudlyf-20
 Tags: admin, editors, administration, enhancement, colaboration, pending
 Requires at least: 2.7.0
 Tested up to: 3.8.1
-Stable tag: 1.1
+Stable tag: 1.1.1
 
 Will show a bubble in the left-hand admin menu of the number of posts pending review, if more than zero.
 
